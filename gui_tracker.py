@@ -3,7 +3,6 @@ from tkinter import messagebox
 from expense import Expense
 import csv
 import os
-
 # Path to the budget file
 BUDGET_FILE = "budget.txt"
 
